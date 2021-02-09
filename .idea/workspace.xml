@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1fa5478-ea94-4d64-b5b7-22adf0a225d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/affichageJournal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/comptabilite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/crudparametre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/125676.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/1308419.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/956399.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/behaviors-bootstrap-08dae8c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/environment-bootstrap-0b18da31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/frameworks-708fa234.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/frameworks-8c550109d58e0353afdf1a37a05301c2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/github-503b06468b70c7693a91b7c35fd8c77c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/github-bootstrap-83b909b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/repositories-dd933f65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/search-key-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/site-6740e47db15be170e8725a8f816d30e1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap-social_bootstrap-social_fichiers/vendor-d2216e0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/db_fonctions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/galerie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/accueil/photoaccueil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/accueil/photoaccueil2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/accueil/videopresentation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/famous/fame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/famous/fame2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/famous/fame3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/famous/fame4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/ecris1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/ecris10.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/ecris2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/ecris3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/facebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/facebook2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/instagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/instagram2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/logo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/logo/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/Adriano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photo9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/photo/photoaccueil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/tarifs/tarif1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/tarifs/tarif2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/images/tarifs/tarif3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/infos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/livredor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/media.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/modifClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/newClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/rechercherapide.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/tarif.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_dev/DB_construction_1/walloffame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/44abe006dfd54cb4cef510c724e7fd80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/46ed278f3f33d26b19f28a38f071d9eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/4da1fafac92fcc35b93e9cdf6fc6f799.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/563ae6cd48aa10da6902f80b2d31a31b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/6a331a6cf714f1e5d4562f29b26f5d05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/cf7d13814a488572d01442f2a0ef8a5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/Medias/Uploads/d368efcca4a7ad007c65c62895d8ad8f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/carousel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/125676.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/1308419.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/956399.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/behaviors-bootstrap-08dae8c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/environment-bootstrap-0b18da31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/frameworks-708fa234.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/frameworks-8c550109d58e0353afdf1a37a05301c2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/github-503b06468b70c7693a91b7c35fd8c77c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/github-bootstrap-83b909b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/repositories-dd933f65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/search-key-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/site-6740e47db15be170e8725a8f816d30e1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap-social_bootstrap-social_fichiers/vendor-d2216e0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/db_fonctions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/accueil/photoaccueil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/accueil/photoaccueil2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/accueil/videopresentation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/famous/fame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/famous/fame2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/famous/fame3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/famous/fame4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/ecris1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/ecris10.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/ecris2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/ecris3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/facebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/facebook2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/instagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/instagram2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/logo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/logo/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/Adriano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photo9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/photo/photoaccueil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/tarifs/tarif1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/tarifs/tarif2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/images/tarifs/tarif3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/infos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/loAleatoire.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/media.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/modifClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/newClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/rechercherapide.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environnement_prod/DB_projet/tarif.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SiteWeb/environnement_prod/DB_projet/db_fonctions.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getima</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dreadz_Barder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dreadz_Barder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1fa5478-ea94-4d64-b5b7-22adf0a225d2" name="Default Changelist" comment="" />
+      <created>1600842644457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600842644457</updated>
+      <workItem from="1600842647693" duration="615000" />
+      <workItem from="1600930838171" duration="3529000" />
+      <workItem from="1601472812698" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4148000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environnement_prod/DB_construction_1/media.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environnement_prod/DB_construction_1/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environnement_prod/DB_construction_1/db_fonctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="28" lean-forward="true" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environnement_prod/DB_construction_1/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environnement_prod/DB_construction_1/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="124" lean-forward="true" selection-start-line="29" selection-start-column="124" selection-end-line="29" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiteWeb/environnement_prod/DB_projet/db_fonctions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

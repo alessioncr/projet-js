@@ -1,0 +1,1 @@
+Ce fichier a été écris pour pouvoir push les dossier vide medias/uploads

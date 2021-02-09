@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(.*)$ https://www.esig-sandbox.ch/team20_3_v2/environnement_dev/index.php /$1 [R=301]
+
