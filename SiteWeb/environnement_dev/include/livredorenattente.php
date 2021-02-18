@@ -19,12 +19,8 @@ if(isset($_POST['btnrefuser'])){
 <!--inspiration : https://www.youtube.com/watch?v=CHfwkekNIYo -->
 <script>
     $(document).ready(function(){
-        var n = 0;
         $("#form1 #select-all").click(function(){
             $("#form1 input[type='checkbox']").prop('checked',this.checked);
-            if $("#form1 input[type='checkbox']").prop('checked',this.checked);{
-                n += 1;
-            }
         });
     });
 
@@ -66,10 +62,22 @@ if(isset($_POST['btnrefuser'])){
             ?>
     </tbody>
 </table>
-    <button type="submit" class="btn btn-primary" name="btnvalider">Valider</button>
-    <button type="submit" class="btn btn-secondary" name="btnrefuser">Refuser</button>
-    <div><script>console.log('il y a:${n} commentaire selectionné');</script></div>
+    <button id="select" type="submit" class="btn btn-primary" name="btnvalider">Valider</button>
+    <button id="select2" type="submit" class="btn btn-secondary" name="btnrefuser">Refuser</button>
 </form> 
-
+<script>
+    $(document).ready(function() {
+        $('#select').click(function() {
+            var checkboxes = $('input:checkbox:checked').length;
+            alert(checkboxes);
+        });
+    });
+    $(document).ready(function() {
+        $('#select2').click(function() {
+            var checkboxes = $('input:checkbox:checked').length;
+            alert(checkboxes);
+        });
+    });
+</script>
 
 
